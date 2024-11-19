@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-Your Name
+Leo Gama
 - GitHub: [@LeoGamaJ](https://github.com/LeoGamaJ)
 - Email: leo@leogama.cloud or open an issue on GitHub.
