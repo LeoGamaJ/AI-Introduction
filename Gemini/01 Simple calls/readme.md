@@ -46,8 +46,9 @@ Error handling for various authentication scenarios
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to modify.
+
 📜 License
-[Choose a license, e.g., MIT]
+MIT
 
 📞 Contact
 Developer: Leo Gama
