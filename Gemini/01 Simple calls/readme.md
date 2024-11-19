@@ -1,6 +1,9 @@
 Gemini Chat CLI
+
 📝 Description
+
 A simple Python script to interact with the Google Gemini API through a command-line interface (CLI). This project allows you to send prompts and receive responses from the Gemini language model directly in your terminal.
+
 🚀 Features
 
 Interactive chat with Gemini model
