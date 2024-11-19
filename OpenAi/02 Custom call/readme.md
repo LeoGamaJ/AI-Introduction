@@ -62,7 +62,7 @@ MIT license
 
 Leo Gama
 - GitHub: [@LeoGamaJ](https://github.com/LeoGamaJ)
-- Email: leo@leogama.cloud or open an issue on GitHub.
+- Email: leo@leogama.cloud
 
 
 ## 🤝 Contributing
